@@ -302,7 +302,7 @@ $font: "MyFont";
   display: none;
   position: fixed;
   bottom: 20px;
-  right: 30px;
+  right: 20px;
   z-index: 99;
   font-size: 18px;
   border: none;
@@ -311,7 +311,7 @@ $font: "MyFont";
   cursor: pointer;
   padding: 15px;
   border-radius: 4px;
-  opacity: 0.6;
+  opacity: 0.5;
   &:hover {
 	  background-color: #555;
 	  opacity: 1;
