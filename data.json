@@ -1,0 +1,23 @@
+[
+	{
+		"id": 1,
+		"title": "Lorem ipsum dolor sit amet",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officiis, voluptate officia tempore minima architecto voluptates accusamus? Ex quaerat, eius, quibusdam a quidem molestias totam pariatur.",
+		"src": "Layer1.png",
+		"button": ""
+	},
+	{
+		"id": 2,
+		"title": "Dolore rerum a sit reprehenderit",
+		"description": "Dolore rerum a sit reprehenderit reiciendis, adipisicing elit. Lorem ipsum dolor sit amet, fugiat quis sint voluptatum.",
+		"src": "Layer2.png",
+		"button": ""
+	},
+	{
+		"id": 3,
+		"title": "Nobis animi ut omnis molestiae",
+		"description": "Nobis animi ut omnis molestiae quisquam voluptas tempora nihil sit reprehenderit reiciendis, adipisicing elit!",
+		"src": "Layer3.png",
+		"button": "Contact us"
+	}
+]
